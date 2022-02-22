@@ -1,0 +1,10 @@
+/** This is a comment that the browser will ignore
+ * Put your CSS code into this file
+ */
+/* h1 tag styling section*/
+h1{
+    color: rgb(202, 52, 207); /*Change the color of the font.*/
+    background:peachpuff ;    /*Change the backgroundcolor of the font.*/
+    font: serif;              /*Change the style of the font.*/
+    font-size: 90px;          /*Change the size of the font.*/
+}
